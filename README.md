@@ -13,7 +13,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ...
 
-Hello from main and your branch
+
 
 - [x] List syntax is required
 - [ ] This item is complete
