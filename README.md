@@ -1,17 +1,20 @@
-# Communicate using Markdown
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey Sujeena-suji!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+...
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+...
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Hello from main and your branch
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Sujeena-suji/9skills-communicate-using-markdown/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-#hello markdown guys
-
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] Ths item is not complete
